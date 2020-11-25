@@ -13,19 +13,19 @@
 ## 效果图
 
 * home  
-<div align=center><img src="https://raw.githubusercontent.com/Semporia/Video/master/static/home.png"/></div>
+<div align=center><img src="https://github.com/Semporia/Video/blob/master/static/home.png"/></div>
 
 * 发现  
-<div align=center><img src="https://raw.githubusercontent.com/Semporia/Video/master/static/discover.png"/></div>
+<div align=center><img src="https://github.com/Semporia/Video/blob/master/static/discover.png"/></div>
 
 * 通知  
-<div align=center><img src="https://raw.githubusercontent.com/Semporia/Video/master/static/notifications.png"/></div>
+<div align=center><img src="https://github.com/Semporia/Video/blob/master/static/notifications.png"/></div>
 
 * 通知  
-<div align=center><img src="https://raw.githubusercontent.com/Semporia/Video/master/static/notifications（1）.png"/></div>
+<div align=center><img src="https://github.com/Semporia/Video/blob/master/static/notifications（1）.png"/></div>
 
 * 视屏播放  
-<div align=center><img src="https://raw.githubusercontent.com/Semporia/Video/master/static/shipin.png"/></div>
+<div align=center><img src="https://github.com/Semporia/Video/blob/master/static/shipin.png"/></div>
 
 ***
 
