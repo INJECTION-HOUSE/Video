@@ -39,7 +39,7 @@
 				<view class="m-left">
 					<view class="cu-avatar round margin-right-sm" style="background-image:url('../../static/images/user.jpg')"></view>
 					<view class="content">
-						<view class="m-name">user name</view>
+						<view class="m-name">注塑之家</view>
 						<view class="m-data">32万粉丝</view>
 					</view>
 				</view>

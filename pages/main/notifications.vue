@@ -48,7 +48,7 @@
 					<view class="cu-item radius" :class="modalName=='move-box-'+ index?'move-cur':''" v-for="(item,index) in chats" :key="index"
 					 @touchstart="ListTouchStart" @touchmove="ListTouchMove" @touchend="ListTouchEnd" :data-target="'move-box-' + index"
 					 @click="toChat(index)">
-						<view class="cu-avatar round lg" :style="[{backgroundImage:'url(https://ossweb-img.qq.com/images/lol/web201310/skin/big2100'+ (index+2) +'.jpg)'}]"></view>
+						<view class="cu-avatar round lg" :style="[{backgroundImage:'url(../../static/images/user.jpg)'}]"></view>
 						<view class="content">
 							<view class="text-white">{{item.name}}</view>
 							<view class="text-grey text-xs">{{item.date}}</view>
