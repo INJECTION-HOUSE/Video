@@ -221,7 +221,7 @@
 			width: 160rpx;
 		}
 		.move{
-			margin: 20rpx -20rpx;
+			margin: 0rpx -20rpx;
 		}
 	}
 </style>

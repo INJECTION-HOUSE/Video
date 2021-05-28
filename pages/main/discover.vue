@@ -178,6 +178,11 @@
 						color: $white !important;
 						font-weight: 500;
 						font-size: 28rpx;
+						overflow:hidden; 
+						text-overflow:ellipsis;
+						display:-webkit-box; 
+						-webkit-box-orient:vertical;
+						-webkit-line-clamp:2; 
 					}
 				}
 				.m-recom-bottom{
